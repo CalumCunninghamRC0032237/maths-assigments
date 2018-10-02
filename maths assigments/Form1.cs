@@ -63,7 +63,7 @@ namespace maths_assigments
                 double d2 = Convert.ToDouble(textBox2.Text);
                 double sqaureroot = Math.Pow(d2, 1.0 / 3.0);
                 label2.Text = sqaureroot.ToString(); 
-
+                 
             }
 
             catch
